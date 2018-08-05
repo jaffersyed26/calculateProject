@@ -1,0 +1,365 @@
+#navbar {
+    background-color: #7986CB;
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+    opacity: 0.9;
+}
+
+#navbar1 {
+    background-color: #311B92;
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+    opacity: 0.9;
+}
+
+.navcontainer {
+    padding: 10px;
+    font-family: Ubuntu;
+    color: aliceblue;
+}
+
+.links a {
+    color: aliceblue;
+}
+
+#mainheader {
+    padding-top: 250px;
+    padding-bottom: 350px;
+    font-family: Ubuntu;
+    background-color: #311B92;
+    color: aliceblue;
+}
+
+#mainheader h1 {
+    font-weight: bolder;
+    font-size: 60px;
+}
+
+#about {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-family: Ubuntu;
+    background-color: #EDE7F6;
+    color: #311B92;
+
+}
+
+#about h1 {
+    font-weight: bolder;
+}
+
+.img img {
+    width: 100%;
+    border-color: #311B92;
+}
+
+#classes {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #9575CD;
+    color: aliceblue;
+    font-family: Ubuntu;
+}
+
+.step {
+    padding: 20px;
+}
+
+#contact {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    font-family: Ubuntu;
+    background-color: #4527A0;
+    color: aliceblue;
+}
+
+#contact h1 {
+    font-weight: bolder;
+}
+
+#dashboard {
+    padding-top: 50px;
+    padding-bottom: 70px;
+    font-family: Ubuntu;
+    color: #311B92;
+    background-color: #EDE7F6;
+}
+
+#dashboard h1 {
+    font-weight: bolder;
+}
+
+#dashboard1 {
+    padding-top: 200px;
+    padding-bottom: 240px;
+    font-family: Ubuntu;
+    color: #311B92;
+    background-color: #EDE7F6;
+}
+
+#dashboard1 h1 {
+    font-weight: bolder;
+}
+
+#dashboard2 {
+    padding-top: 50px;
+    padding-bottom: 70px;
+    font-family: Ubuntu;
+    color: #EDE7F6;
+    background-color: #311B92;
+}
+
+#dashboard2 h1 {
+    font-weight: bolder;
+}
+
+#dashboard3 {
+    padding-top: 50px;
+    padding-bottom: 70px;
+    font-family: Ubuntu;
+    color: #311B92;
+    background-color: #7986CB;
+}
+
+#dashboard3 h1 {
+    font-weight: bolder;
+}
+
+#dashboard4 {
+    padding-top: 50px;
+    padding-bottom: 70px;
+    font-family: Ubuntu;
+    color: #311B92;
+    background-color: white;
+}
+
+#dashboard4 h1 {
+    font-weight: bolder;
+}
+
+#dashboard5 {
+    padding-top: 150px;
+    padding-bottom: 150px;
+    font-family: Ubuntu;
+    color: #311B92;
+    background-color: #EDE7F6;
+}
+
+#dashboard h1 {
+    font-weight: bolder;
+}
+
+.chembutton {
+    padding: 20px;
+}
+
+#button {
+   border-radius: 40px;
+   padding: 10px;
+   width: 50%;
+   background-color: #7986CB;
+  }
+
+#button h3{
+    color: aliceblue;
+}
+  
+#button h3:hover {
+    color: #311B92;
+    font-weight: bold;
+}
+
+#button:hover {
+    background-color: white;
+}
+
+#button1 {
+    border-radius: 40px;
+    padding: 10px;
+    width: 80%;
+    background-color: #7986CB;
+   }
+ 
+ #button1 h4{
+     color: aliceblue;
+ }
+
+ #button1 a {
+     color: #311B92;
+     text-decoration: none;
+ }
+
+ #button1 a:hover {
+     color: #4527A0;
+ }
+ 
+ #button1:hover {
+     background-color: white;
+ }
+
+ #button2 {
+    border-radius: 40px;
+    padding: 10px;
+    width: 40%;
+    background-color: #7986CB;
+   }
+ 
+ #button2 h4{
+     color: aliceblue;
+ }
+
+ #button2 a {
+     color: #311B92;
+     text-decoration: none;
+ }
+
+ #button2 a:hover {
+     color: #4527A0;
+ }
+ 
+ #button2:hover {
+     background-color: white;
+ }
+
+ #button3 {
+    border-radius: 40px;
+    padding: 10px;
+    width: 100%;
+    background-color: #9575CD;
+   }
+ 
+ #button3 h4{
+     color: #EDE7F6;
+ }
+
+ #button3 a {
+     color: #EDE7F6;
+     text-decoration: none;
+ }
+ 
+ #button3:hover {
+     background-color: #7986CB;
+ }
+
+ #button4 {
+    border-radius: 40px;
+    padding: 10px;
+    width: 100%;
+    background-color: #EDE7F6;
+   }
+ 
+ #button4 h4{
+     color: #311B92;
+ }
+
+ #button4 a {
+     color: #311B92;
+     text-decoration: none;
+ }
+ 
+ #button4:hover {
+     background-color: #9575CD;
+ }
+
+ #button5 {
+    border-radius: 40px;
+    padding: 10px;
+    width: 100%;
+    background-color: #311B92;
+   }
+ 
+ #button5 h4{
+     color: #EDE7F6;
+ }
+
+ #button5 a {
+     color: #EDE7F6;
+     text-decoration: none;
+ }
+
+ #button6 {
+    border-radius: 40px;
+    padding: 10px;
+    width: 100%;
+    background-color: #311B92;
+   }
+ 
+ #button6 h4{
+     color: #EDE7F6;
+ }
+
+ #button6 a {
+     color: #EDE7F6;
+     text-decoration: none;
+ }
+ 
+ #button5:hover {
+     background-color: #7986CB;
+ }
+
+ .subject {
+     padding: 20px;
+ }
+
+ .subjectbtn {
+     padding: 30px;
+ }
+
+.inputcontainer {
+    padding: 20px;
+}
+
+.inputbar {
+    padding: 20px;
+}
+
+.inputbar1 {
+    padding: 20px;
+    color: #311B92;
+}
+
+#footer3 {
+    font-family: Ubuntu;
+    font-weight: bolder;
+    background-color: #512DA8;
+    color: white;
+}
+
+#footer3 a {
+    color: white;
+}
+
+#footer2 {
+    font-family: Ubuntu;
+    font-weight: bolder;
+    background-color: #9575CD;
+    color: #311B92; 
+}
+
+#footer2 a {
+    color: #311B92;
+}
+
+#footer1 {
+    font-family: Ubuntu;
+    font-weight: bolder;
+    background-color: #311B92;
+    color: #7986CB;
+}
+
+#footer1 a {
+    color: #7986CB
+}
+
+#footer {
+    font-family: Ubuntu;
+    font-weight: bolder;
+    background-color: #EDE7F6;
+    color: #7986CB;
+}
+
+#footer a {
+    color: #7986CB;
+}
