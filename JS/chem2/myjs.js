@@ -1,6 +1,6 @@
 //finding concentrations finding Ka * Kb = 1.00 * 10^-14
 //[H3O][OH] = 1.00 * 10^-14
-document.querySelector('#button').addEventListener('click', function(){
+document.querySelector('#button1').addEventListener('click', function(){
     var H3O = document.querySelector('#variable1').value;
     var OH = document.querySelector('#variable2').value;
     var results = document.querySelector('#result');
