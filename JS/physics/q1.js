@@ -15,6 +15,7 @@ document.querySelector('#button1').addEventListener('click', function(){
     var gamma1 = alpha + beta;
     var gamma2 = variable2 + gamma1;
     var gamma4 = var1 - gamma2;
+    var gamma5 = 0.5 * gamma;
     var gamma6 = gamma4 / omega;
 
     //conclude the equation
