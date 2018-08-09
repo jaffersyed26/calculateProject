@@ -1,25 +1,8 @@
 #navbar {
-    background-color: #7986CB;
+    background-color: #1565C0;
     position: fixed;
     width: 100%;
     z-index: 99;
-    opacity: 0.9;
-}
-
-#navbar1 {
-    background-color: #311B92;
-    position: fixed;
-    width: 100%;
-    z-index: 99;
-    opacity: 0.9;
-}
-
-#navbar1-chem1 {
-    background-color: #EDE7F6;
-    position: fixed;
-    width: 100%;
-    z-index: 99;
-    opacity: 0.9;
 }
 
 .navcontainer {
@@ -28,26 +11,15 @@
     color: aliceblue;
 }
 
-.navcontainer1-chem1 {
-    padding: 10px;
-    font-family: Ubuntu;
-    color: #311B92;
-}
-
 .links a {
     color: aliceblue;
-}
-
-.links1-chem1 a {
-    color: #311B92;
-    text-decoration: none;
 }
 
 #mainheader {
     padding-top: 250px;
     padding-bottom: 350px;
     font-family: Ubuntu;
-    background-color: #311B92;
+    background-color: #0D47A1;
     color: aliceblue;
 }
 
@@ -60,8 +32,8 @@
     padding-top: 60px;
     padding-bottom: 60px;
     font-family: Ubuntu;
-    background-color: #EDE7F6;
-    color: #311B92;
+    background-color: #E3F2FD;
+    color: #0D47A1;
 
 }
 
@@ -71,13 +43,12 @@
 
 .img img {
     width: 100%;
-    border-color: #311B92;
 }
 
 #classes {
     padding-top: 50px;
     padding-bottom: 50px;
-    background-color: #9575CD;
+    background-color: #1976D2;
     color: aliceblue;
     font-family: Ubuntu;
 }
@@ -86,11 +57,26 @@
     padding: 20px;
 }
 
+#subjects {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: Ubuntu;
+    color: #0D47A1;
+}
+
+#statement {
+    background-color: #1976D2;
+    color: aliceblue;
+    font-family: Ubuntu;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
 #contact {
     padding-top: 200px;
     padding-bottom: 200px;
     font-family: Ubuntu;
-    background-color: #4527A0;
+    background-color: #0D47A1;
     color: aliceblue;
 }
 
@@ -98,403 +84,159 @@
     font-weight: bolder;
 }
 
-#dashboard1-chem1 {
-    padding-top: 50px;
-    padding-bottom: 70px;
-    font-family: Ubuntu;
-    color: white;
-    background-color: #9575CD;
-}
-
 #dashboard {
-    padding-top: 50px;
-    padding-bottom: 70px;
+    padding-top: 100px;
+    padding-bottom: 100px;
     font-family: Ubuntu;
-    color: #311B92;
-    background-color: #EDE7F6;
+    color: #0D47A1;
+    background-color: #ECEFF1;
 }
 
 #dashboard h1 {
     font-weight: bolder;
 }
 
-#dashboard1 {
-    padding-top: 200px;
-    padding-bottom: 240px;
-    font-family: Ubuntu;
-    color: #311B92;
-    background-color: #EDE7F6;
+
+
+.subject {
+    padding: 20px;
 }
 
-#dashboard1-1 {
+#dashboard1 {
     padding-top: 200px;
-    padding-bottom: 240px;
+    padding-bottom: 230px;
     font-family: Ubuntu;
-    color: white;
-    background-color: #311B92;
+    color: #0D47A1;
+    background-color: #ECEFF1;
 }
 
 #dashboard1 h1 {
     font-weight: bolder;
 }
 
-#searchbar {
-    padding: 25px;
+ #button {
+    border-radius: 40px;
+    padding: 10px;
     width: 100%;
-    font-size: 25px;
+    background-color: #1565C0;
+}
+ 
+ #button h3{
+     color: #EDE7F6;
+ }
+
+ #button h4{
+    color: #EDE7F6;
 }
 
-.searchsubject {
+ #button a {
+     color: #EDE7F6;
+     text-decoration: none;
+ }
+
+ #button:hover {
+     background-color: #0D47A1;
+ }
+
+ #dashboardsubject {
+    padding-top: 50px;;
+    padding-bottom: 50px;
+    font-family: Ubuntu;
+    color: #0D47A1;
+    background-color: #ECEFF1;
+}
+
+#dashboardsubject h1 {
+    font-weight: bolder;
+}
+
+.subjectbtn {
     padding: 20px;
 }
 
-.searchenter {
-    padding: 10px;
+#dashboardequation {
+    padding-top: 80px;
+    padding-bottom: 50px;
+    background-color: #ECEFF1;
+    color: #0D47A1;
+    font-family: Ubuntu;
 }
 
-#buttonenter {
-    padding: 30px;
+#dashboardchem12 {
+    padding-top: 230px;
+    padding-bottom: 230px;
+    background-color: #ECEFF1;
+    color: #0D47A1;
+    font-family: Ubuntu;
 }
 
-.h1-chemistry {
-    font-size: 60px;
+#dashboard1 {
+    padding-top: 80px;
+    padding-bottom: 50px;
+    background-color: #ECEFF1;
+    color: #0D47A1;
+    font-family: Ubuntu;
 }
 
 #dashboard2 {
-    padding-top: 50px;
-    padding-bottom: 70px;
-    font-family: Ubuntu;
-    color: #EDE7F6;
-    background-color: #311B92;
-}
-
-#dashboard2 h1 {
-    font-weight: bolder;
-}
-
-#dashboard2-solver {
     padding-top: 80px;
-    padding-bottom: 30px;
-    font-family: Ubuntu;
-    color: #311B92;
-    background-color: #D1C4E9;
-}
-
-
-#dashboard3 {
-    padding-top: 50px;
-    padding-bottom: 70px;
-    font-family: Ubuntu;
-    color: #311B92;
-    background-color: #7986CB;
-}
-
-#dashboard3 h1 {
-    font-weight: bolder;
-}
-
-#dashboard4 {
-    padding-top: 50px;
-    padding-bottom: 70px;
-    font-family: Ubuntu;
-    color: #311B92;
-    background-color: white;
-}
-
-#dashboard4 h1 {
-    font-weight: bolder;
-}
-
-#dashboard5 {
-    padding-top: 150px;
-    padding-bottom: 150px;
-    font-family: Ubuntu;
-    color: #311B92;
-    background-color: #EDE7F6;
-}
-
-#dashboard6 {
-    color: #311B92;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-bottom: 50px;
+    background-color: #ECEFF1;
+    color: #0D47A1;
     font-family: Ubuntu;
 }
 
-.subject1{
-    padding: 0px;
+#button1{
+    border-radius: 40px;
+    padding: 10px;
+    width: 30%;
+    background-color: #1565C0;
+    color: aliceblue
 }
 
-.h1-maindash {
-    font-size: 40px;
+#button1:hover {
+    background-color: #0D47A1;
 }
 
-.btn {
-    background-color: #311B92;
-    color: white;
-    text-decoration: none;
-}
 
-.btn:hover {
-    background-color: #7986CB;
-} 
-
-#dashboard h1 {
-    font-weight: bolder;
-}
-
-.chembutton {
+.calcbutton {
     padding: 20px;
 }
 
-#button {
-   border-radius: 40px;
-   padding: 10px;
-   width: 50%;
-   background-color: #7986CB;
-  }
-
-#button h3{
-    color: #311B92;
-}
-
-#button:hover {
-    background-color: white;
-}
-
-#button1 {
-    border-radius: 40px;
-    padding: 10px;
-    width: 80%;
-    background-color: #311B92;
-    color: white;
-   }
-
- #button1 a {
-     text-decoration: none;
- }
-
- #button1-1 {
-    border-radius: 40px;
-    padding: 10px;
-    width: 80%;
-    background-color: #D1C4E9;
-   }
-
- #button1-1 a {
-     color: #311B92;
-     text-decoration: none;
- }
- 
- #button1-1:hover {
-     background-color: white;
- }
-
- #button1-2 {
-    border-radius: 40px;
-    padding: 10px;
-    width: 80%;
-    background-color: #D1C4E9;
-   }
-
- #button1-2 a {
-     color: #311B92;
-     text-decoration: none;
- }
- 
- #button1-2:hover {
-     background-color: #BA68C8;
- }
-
- #button2 {
-    border-radius: 40px;
-    padding: 10px;
-    width: 40%;
-    background-color: #7986CB;
-   }
- 
- #button2 h4{
-     color: aliceblue;
- }
-
- #button2 a {
-     color: #311B92;
-     text-decoration: none;
- }
-
- #button2 a:hover {
-     color: #4527A0;
- }
- 
- #button2:hover {
-     background-color: white;
- }
-
- #button3 {
-    border-radius: 40px;
-    padding: 10px;
-    width: 100%;
-    background-color: #9575CD;
-   }
- 
- #button3 h4{
-     color: #EDE7F6;
- }
-
- #button3 a {
-     color: #EDE7F6;
-     text-decoration: none;
- }
- 
- #button3:hover {
-     background-color: #7986CB;
- }
-
- #button4 {
-    border-radius: 40px;
-    padding: 10px;
-    width: 100%;
-    background-color: #EDE7F6;
-   }
- 
- #button4 h4{
-     color: #311B92;
- }
-
- #button4 a {
-     color: #311B92;
-     text-decoration: none;
- }
- 
- #button4:hover {
-     background-color: #9575CD;
- }
-
- #button5 {
-    border-radius: 40px;
-    padding: 10px;
-    width: 100%;
-    background-color: #311B92;
-   }
- 
- #button5 h4{
-     color: #EDE7F6;
- }
-
- #button5 a {
-     color: #EDE7F6;
-     text-decoration: none;
- }
-
- #button6 {
-    border-radius: 40px;
-    padding: 10px;
-    width: 100%;
-    background-color: #311B92;
-   }
- 
- #button6 h3{
-     color: white;
- }
-
- #button6 a {
-     text-decoration: none;
- }
-
- #button6:hover {
-     background-color: #7986CB;
- }
- 
- #button5:hover {
-     background-color: #7986CB;
- }
-
- .subject {
-     padding: 20px;
- }
-
- .subjectbtn {
-     padding: 30px;
- }
-
-.inputcontainer {
-    padding: 20px;
-}
-
-.inputbar {
-    padding: 20px;
-}
-
-.inputbar1 {
-    padding: 20px;
-    color: #311B92;
-}
-
-.equation {
-    font-size: 50px;
-}
-
-#footer3 {
-    font-family: Ubuntu;
-    font-weight: bolder;
-    background-color: #512DA8;
-    color: white;
-}
-
-#footer3 a {
-    color: white;
-}
-
-#footer2 {
-    font-family: Ubuntu;
-    font-weight: bolder;
-    background-color: #9575CD;
-    color: #311B92; 
-}
-
-#footer2 a {
-    color: #311B92;
-}
-
-#footer1 {
-    font-family: Ubuntu;
-    font-weight: bolder;
-    background-color: #311B92;
-    color: #7986CB;
-}
-
-
-#footer1 a {
-    color: white;
-    text-decoration: none;
-}
-
-#footer1 h3 {
-    color: white;
-}
-
-#footer1-1 {
-    font-family: Ubuntu;
-    font-weight: bolder;
-    background-color: #7986CB;
-}
-
-
-#footer1-1 a {
-    color: white;
-    text-decoration: none;
-}
-
-#footer1-1 h3 {
-    color: white;
+.inputcontainer input {
+    padding: 25px;
 }
 
 #footer {
     font-family: Ubuntu;
     font-weight: bolder;
-    background-color: #EDE7F6;
-    color: #7986CB;
+    background-color: #1565C0;
+    color: white;
 }
 
 #footer a {
-    color: #7986CB;
+    color   :white;
 }
+
+#footer1 {
+    font-family: Ubuntu;
+    font-weight: bolder;
+    background-color: #1565C0;
+    color: white;
+}
+
+#footer1 a {
+    color   :white;
+}
+
+#footer2 {
+    font-family: Ubuntu;
+    font-weight: bolder;
+    background-color: #1565C0;
+    color: white;
+}
+
+#footer2 a {
+    color   :white;
+}
+
