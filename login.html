@@ -1,0 +1,60 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width  initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Login</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/">
+    <link rel="stylesheet" href="./css/style.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Ubuntu" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+     <script src="JS/auth.js"></script>
+    <script src="JS/register.js"></script>
+  </head>
+<body>
+  <section id="navbar">
+    <div class="container">
+      <div class="navcontainer">
+        <div class="span w3-left">
+          <span>CALCULATOR</span>
+        </div>
+        <div class="links w3-right">
+         <ul class="list-inline">
+            <li><a href="#">HOME</a></li>
+            <li><a href="maindash.html">SUBJECTS</a></li>
+            <li><a href="index.html#contact">CONTACT</a></li>
+         </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section id="mainheader" style="min-height: 100vh">
+    <div class="container">
+        <h1 class="page-header">Login or Register</h1>
+      <h3 id="error" style="color: yellowgreen;display: none">Error:</h3>
+
+      <div class="input-group input-group-lg" style="padding-top: 16px;min-width: 100%">
+        <div class="input-group-prepend">
+          <span class="input-group-text" >Email</span>
+        </div>
+        <input type="text" class="form-control" id="email" aria-label="Large" aria-describedby="inputGroup-sizing-sm">
+      </div>
+      <div class="input-group input-group-lg" style="padding-top: 16px;width: 100%">
+        <div class="input-group-prepend">
+          <span class="input-group-text" >Password</span>
+        </div>
+        <input type="password" class="form-control" id="pass" aria-label="Large" aria-describedby="inputGroup-sizing-sm">
+      </div>
+      <button type="button" style="margin-top: 16px;background: #311B92" id="register-button" class="btn btn-primary btn-lg">Register Instead</button>
+      <button type="button" style="float: right;margin-top: 16px" id="login-button" class="btn btn-primary btn-lg">Login</button>
+    </div>
+
+  </section>
+
+</body>
+</html>
