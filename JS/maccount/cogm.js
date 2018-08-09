@@ -1,4 +1,4 @@
-document.querySelector('#button').addEventListener('click', function(){
+document.querySelector('#button1').addEventListener('click', function(){
     var var1 = document.querySelector('#variable1').value;
     var var2 = document.querySelector('#variable2').value;
     var var3 = document.querySelector('#variable3').value;
@@ -6,12 +6,10 @@ document.querySelector('#button').addEventListener('click', function(){
     var var5 = document.querySelector('#variable5').value;
     var var6 = document.querySelector('#variable6').value;
     var results = document.querySelector('#result');
-    var variable1 = var1 * 1;
     var variable2 = var2 * 1;
     var variable3 = var3 * 1;
     var variable4 = var4 * 1;
     var variable5 = var5 * 1;
-    var variable6 = var6 * 1;
     var alpha = variable2 + variable3 + variable4;
     var alpha2 = variable3 + variable4 + variable5 - var6;
     var alpha3 = variable2 + variable4 + variable5 - var6;
