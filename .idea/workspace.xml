@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45eb8524-7ff2-433f-bde6-879ffae6144f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/JS/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chem1.html" beforeDir="false" afterPath="$PROJECT_DIR$/chem1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chem2.html" beforeDir="false" afterPath="$PROJECT_DIR$/chem2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chemistry.html" beforeDir="false" afterPath="$PROJECT_DIR$/chemistry.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/economics.html" beforeDir="false" afterPath="$PROJECT_DIR$/economics.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faccounting.html" beforeDir="false" afterPath="$PROJECT_DIR$/faccounting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finance.html" beforeDir="false" afterPath="$PROJECT_DIR$/finance.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/financecalc/fin1-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/financecalc/fin1-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/financecalc/fin1-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/financecalc/fin1-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/financecalc/fin1-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/financecalc/fin1-11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/financecalc/fin1-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/financecalc/fin1-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/financecalc/fin1-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/financecalc/fin1-13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/financecalc/fin1-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/financecalc/fin1-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/financecalc/fin1-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/financecalc/fin1-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/financecalc/fin1-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/financecalc/fin1-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/financecalc/fin1-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/financecalc/fin1-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/financecalc/fin1-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/financecalc/fin1-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/financecalc/fin1-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/financecalc/fin1-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/financecalc/fin1-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/financecalc/fin1-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/financecalc/fin1-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/financecalc/fin1-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geometery.html" beforeDir="false" afterPath="$PROJECT_DIR$/geometery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maccounting.html" beforeDir="false" afterPath="$PROJECT_DIR$/maccounting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maindash.html" beforeDir="false" afterPath="$PROJECT_DIR$/maindash.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/physics.html" beforeDir="false" afterPath="$PROJECT_DIR$/physics.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem1-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem1-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem1-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem1-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem1-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem1-11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem1-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem1-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem1-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem1-13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem1-14.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem1-14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem1-15.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem1-15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem1-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem1-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem1-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem1-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem1-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem1-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem1-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem1-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem1-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem1-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem1-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem1-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem1-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem1-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem1-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem1-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem2-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem2-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem2-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem2-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem2-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem2-11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem2-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem2-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem2-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem2-13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem2-14.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem2-14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem2-15.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem2-15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem2-16.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem2-16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem2-17.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem2-17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem2-18.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem2-18.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem2-19.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem2-19.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem2-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem2-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem2-20.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem2-20.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem2-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem2-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem2-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem2-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem2-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem2-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem2-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem2-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem2-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem2-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem2-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem2-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/chem2-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/chem2-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/e1-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/e1-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/e1-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/e1-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/e1-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/e1-11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/e1-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/e1-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/e1-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/e1-13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/e1-14.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/e1-14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/e1-15.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/e1-15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/e1-16.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/e1-16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/e1-17.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/e1-17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/e1-18.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/e1-18.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/e1-19.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/e1-19.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/e1-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/e1-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/e1-20.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/e1-20.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/e1-21.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/e1-21.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/e1-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/e1-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/e1-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/e1-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/e1-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/e1-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/e1-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/e1-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/e1-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/e1-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/e1-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/e1-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/e1-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/e1-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/f1-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/f1-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/f1-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/f1-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/f1-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/f1-11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/f1-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/f1-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/f1-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/f1-13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/f1-14.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/f1-14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/f1-15.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/f1-15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/f1-16.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/f1-16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/f1-17.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/f1-17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/f1-18.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/f1-18.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/f1-19.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/f1-19.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/f1-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/f1-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/f1-20.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/f1-20.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/f1-21.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/f1-21.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/f1-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/f1-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/f1-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/f1-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/f1-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/f1-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/f1-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/f1-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/f1-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/f1-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/f1-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/f1-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/f1-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/f1-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/fin1-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/fin1-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/fin1-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/fin1-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/fin1-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/fin1-11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/fin1-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/fin1-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/fin1-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/fin1-13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/fin1-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/fin1-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/fin1-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/fin1-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/fin1-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/fin1-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/fin1-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/fin1-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/fin1-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/fin1-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/fin1-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/fin1-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/fin1-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/fin1-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/fin1-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/fin1-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/g1-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/g1-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/g1-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/g1-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/g1-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/g1-11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/g1-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/g1-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/g1-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/g1-13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/g1-14.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/g1-14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/g1-15.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/g1-15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/g1-16.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/g1-16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/g1-17.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/g1-17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/g1-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/g1-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/g1-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/g1-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/g1-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/g1-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/g1-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/g1-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/g1-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/g1-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/g1-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/g1-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/g1-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/g1-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/g1-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/g1-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-14.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-15.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-16.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-17.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-18.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-18.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-19.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-19.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-20.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-20.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-21.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-21.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-22.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-22.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-23.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-23.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-24.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-24.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-25.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-25.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-26.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-26.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-27.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-27.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-28.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-28.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-29.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-29.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-30.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-30.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-31.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-31.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-32.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-32.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/m1-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/m1-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/p1-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/p1-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/p1-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/p1-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/p1-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/p1-11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/p1-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/p1-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/p1-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/p1-13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/p1-14.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/p1-14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/p1-15.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/p1-15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/p1-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/p1-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/p1-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/p1-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/p1-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/p1-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/p1-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/p1-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/p1-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/p1-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/p1-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/p1-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/p1-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/p1-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subjectsequation/p1-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjectsequation/p1-9.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="95" selection-start-line="14" selection-start-column="95" selection-end-line="14" selection-end-column="95" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="maccounting.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/maccounting.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="maindash.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/maindash.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="physics.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/physics.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chemistry.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chemistry.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auth.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JS/auth.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5878" selection-start-column="5878" selection-end-column="5878" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="g1-10.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/subjectsequation/g1-10.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chem1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chem1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="95" selection-start-line="14" selection-start-column="95" selection-end-line="14" selection-end-column="95" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Mohamed Yassin" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/subjectsequation/chem1-1.html" />
+        <option value="$PROJECT_DIR$/chem1.html" />
+        <option value="$PROJECT_DIR$/chem2.html" />
+        <option value="$PROJECT_DIR$/chemistry.html" />
+        <option value="$PROJECT_DIR$/economics.html" />
+        <option value="$PROJECT_DIR$/faccounting.html" />
+        <option value="$PROJECT_DIR$/finance.html" />
+        <option value="$PROJECT_DIR$/geometery.html" />
+        <option value="$PROJECT_DIR$/login.html" />
+        <option value="$PROJECT_DIR$/maccounting.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/maindash.html" />
+        <option value="$PROJECT_DIR$/physics.html" />
+        <option value="$PROJECT_DIR$/JS/auth.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="3855" />
+    <option name="height" value="2112" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CalculateProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CalculateProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CalculateProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CalculateProject" type="462c0819:PsiDirectoryNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45eb8524-7ff2-433f-bde6-879ffae6144f" name="Default" comment="" />
+      <created>1533592297983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533592297983</updated>
+      <workItem from="1533592299395" duration="7388000" />
+      <workItem from="1533782814516" duration="2612000" />
+      <workItem from="1533840552668" duration="4000" />
+      <workItem from="1533840563972" duration="870000" />
+      <workItem from="1533942939772" duration="3612000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4507000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12885591" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added auth" />
+    <MESSAGE value="Merge branch 'master' of github.com:jaffersyed26/calculateProject&#10;&#10;# Conflicts:&#10;#&#9;chem1.html&#10;#&#9;css/style.css&#10;#&#9;maindash.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of github.com:jaffersyed26/calculateProject&#10;&#10;# Conflicts:&#10;#&#9;chem1.html&#10;#&#9;css/style.css&#10;#&#9;maindash.html" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/calculateProject/financecalc/balanceequ/ca.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/financecalc/bookvfile/bookv1.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/financecalc/bookvfile/bookv2.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/financecalc/mva/mva1.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/financecalc/mva/mva2.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/login.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/geometery/ac.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/geometery/ap.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/geometery/at.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/geometery/dformula.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/financecalc/balanceequ/td.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/financecalc/balanceequ/tl.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/financecalc/balanceequ/ca.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/financecalc/bookvfile/bookv1.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/financecalc/bookvfile/bookv2.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/financecalc/mva/mva1.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/financecalc/mva/mva2.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/financecalc/balanceequ/cl.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/subjectsequation/chem1-1.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/physics.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/maindash.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/maccounting.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/geometery.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/finance.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/faccounting.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/economics.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/chem2.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/chemistry.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/JS/maccount/cmr.js" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/subjectsequation/chem2-13.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/index.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/login.html" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/JS/auth.js" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/JS/register.js" />
+    <entry file="file://$PROJECT_DIR$/calculateProject/chem1.html" />
+    <entry file="file://$PROJECT_DIR$/JS/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" selection-start-column="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subjectsequation/chem1-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chem2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/economics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faccounting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/physics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maindash.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maccounting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="95" selection-start-line="14" selection-start-column="95" selection-end-line="14" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="95" selection-start-line="14" selection-start-column="95" selection-end-line="14" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geometery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finance.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chemistry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subjectsequation/g1-10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chem1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5878" selection-start-column="5878" selection-end-column="5878" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
